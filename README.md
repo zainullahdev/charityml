@@ -10,3 +10,9 @@ This is project submission of udacity nano degree program (into to machine learn
 ```python
 Python 3.7.4
 ```
+
+## Jupyter Notebook Version
+
+```
+v6.0.3
+```
